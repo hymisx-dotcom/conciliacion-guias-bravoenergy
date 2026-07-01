@@ -1,0 +1,6 @@
+.DS_Store
+Thumbs.db
+_test-fixtures/
+*.xlsx
+*.xls
+node_modules/
